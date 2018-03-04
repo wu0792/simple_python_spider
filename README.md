@@ -1,0 +1,2 @@
+# simple_python_spider
+使用Python做了一个简单爬虫，爬百度百科的词条信息
